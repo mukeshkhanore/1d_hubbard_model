@@ -1,7 +1,7 @@
 
 # 1D Hubbard Model
 
-program to evaluate 1d Hamiltonian for Hubbard model (electron) with periodic boundary conditions and nearest neighbour interaction. It calculated the all energy spectra of hamiltonian for given number of sites and number electrons. 
+program to evaluate 1d Hamiltonian for Hubbard model (electron) with periodic boundary conditions and nearest neighbour interaction using exact diagonalization. It calculated the all energy spectra of hamiltonian for given number of sites and number electrons. 
 
 ![equ](https://latex.codecogs.com/svg.image?\hat{H}&space;=&space;-t&space;\sum_{i,\sigma}&space;\left(&space;\hat{c}^\dagger_{i,\sigma}&space;\hat{c}_{i&plus;1,\sigma}&space;&plus;&space;\hat{c}^\dagger_{i&plus;1,\sigma}&space;\hat{c}_{i,\sigma}&space;\right)&space;&plus;&space;U&space;\sum_i&space;\hat{n}_{i\uparrow}&space;\hat{n}_{i\downarrow})
 
